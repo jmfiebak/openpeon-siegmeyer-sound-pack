@@ -10,11 +10,17 @@
   },
   "license": "CC-BY-NC-4.0",
   "language": "en",
-"categories": {
+  "categories": {
     "session.start": {
       "sounds": [
-        { "file": "sounds/SiegmeyerFatesEntwined.mp3", "label": "Our fates do seem entwined ..." },
-        { "file": "sounds/SiegmeyerThereYouAre.mp3", "label": "Oh, there you are!" },
+        {
+          "file": "sounds/SiegmeyerFatesEntwined.mp3",
+          "label": "Our fates do seem entwined ..."
+        },
+        {
+          "file": "sounds/SiegmeyerThereYouAre.mp3",
+          "label": "Oh, there you are!"
+        },
         { "file": "sounds/SiegmeyerYouAgain.mp3", "label": "Ah, you again!" }
       ]
     },
@@ -28,43 +34,243 @@
         { "file": "sounds/SiegmeyerHm6.mp3", "label": "Hm 6" },
         { "file": "sounds/SiegmeyerHm7.mp3", "label": "Hm 7" },
         { "file": "sounds/SiegmeyerHm8.mp3", "label": "Hm 8" },
-        { "file": "sounds/SiegmeyerOutstanding.mp3", "label": "Outstanding! You never fail to impress." },
-        { "file": "sounds/SiegmeyerYesISee.mp3", "label": "Yes, I see." }
-
+        {
+          "file": "sounds/SiegmeyerOutstanding.mp3",
+          "label": "Outstanding! You never fail to impress."
+        },
+        { "file": "sounds/SiegmeyerYesISee.mp3", "label": "Yes, I see." },
+        {
+          "file": "sounds/SiegmeyerIllThinkOfSomething.mp3",
+          "label": "I'll think of something."
+        },
+        { "file": "sounds/SiegmeyerWonderful.mp3", "label": "Well, wonderful!" }
       ]
     },
     "task.complete": {
       "sounds": [
-        { "file": "sounds/SiegmeyerHmOho.mp3", "label": "Hm... Oho! 1" },
+        { "file": "sounds/SiegmeyerHmOho1.mp3", "label": "Hm... Oho! 1" },
         { "file": "sounds/SiegmeyerHmOho2.mp3", "label": "Hm... Oho! 2" },
         { "file": "sounds/SiegmeyerHmOho3.mp3", "label": "Hm... Oho! 3" },
         { "file": "sounds/SiegmeyerHmOho4.mp3", "label": "Hm... Oho! 4" },
-        { "file": "sounds/SiegmeyerHmByTheHonor.mp3", "label": "By the honor of my knighthood!" },
-        { "file": "sounds/SiegmeyerHmOho6.mp3", "label": "Hm... Oho! 6" },
-        { "file": "sounds/SiegmeyerHmOho7.mp3", "label": "Hm... Oho! 7" },
-        { "file": "sounds/SiegmeyerHmOho8.mp3", "label": "Hm... Oho! 8" },
-        { "file": "sounds/SiegmeyerWellDone.mp3", "label": "Well done!" }
+        {
+          "file": "sounds/SiegmeyerByTheHonor.mp3",
+          "label": "By the honor of my knighthood!"
+        },
+        { "file": "sounds/SiegmeyerFantastic.mp3", "label": "Fantastic!" },
+        { "file": "sounds/SiegmeyerFantastic2.mp3", "label": "Fantastic! 2" },
+        {
+          "file": "sounds/SiegmeyerSymbolOfAppreciation.mp3",
+          "label": "Take this! A symbol of my appreciation."
+        },
+        {
+          "file": "sounds/SiegmeyerThankGoodness.mp3",
+          "label": "Thank goodness. I'm exhausted!"
+        },
+        {
+          "file": "sounds/SiegmeyerTokenOfGratitude.mp3",
+          "label": "Take this – as a token of my gratitude."
+        },
+        {
+          "file": "sounds/SiegmeyerVoila.mp3",
+          "label": "And voila! The Path is open!"
+        },
+        {
+          "file": "sounds/SiegmeyerGoodThingsComeToThose.mp3",
+          "label": "Good things come to those who wait."
+        }
+      ]
+    },
+    "task.progress": {
+      "sounds": [
+        {
+          "file": "sounds/SiegmeyerAbsorbedInThought1.mp3",
+          "label": "I was absorbed in thought. 1"
+        },
+        {
+          "file": "sounds/SiegmeyerAbsorbedInThought2.mp3",
+          "label": "I was absorbed in thought. 2"
+        },
+        {
+          "file": "sounds/SiegmeyerAnyMomentNow.mp3",
+          "label": "Any moment now and I'll be hit with an epiphany!"
+        },
+        {
+          "file": "sounds/SiegmeyerDifficultOne.mp3",
+          "label": "This is a difficult one, even for me."
+        },
+        {
+          "file": "sounds/SiegmeyerDriftedAway1.mp3",
+          "label": "I was so absorbed in thought, I just drifted away. 1"
+        },
+        {
+          "file": "sounds/SiegmeyerDriftedAway2.mp3",
+          "label": "I was so absorbed in thought, I just drifted away. 2"
+        },
+        {
+          "file": "sounds/SiegmeyerGroundBelowIsMyPillow.mp3",
+          "label": "The ground below me is my pillow."
+        },
+        {
+          "file": "sounds/SiegmeyerHardship.mp3",
+          "label": "Have I ever let a little hardship slow me down?"
+        },
+        {
+          "file": "sounds/SiegmeyerMadeItThisFar.mp3",
+          "label": "I've made it this far."
+        },
+        { "file": "sounds/SiegmeyerSnore1.mp3", "label": "Zzz... 1" },
+        { "file": "sounds/SiegmeyerSnore2.mp3", "label": "Zzz... 2" },
+        { "file": "sounds/SiegmeyerSnore3.mp3", "label": "Zzz... 3" },
+        {
+          "file": "sounds/SiegmeyerStillClosed.mp3",
+          "label": "Still closed, still closed ..."
+        },
+        {
+          "file": "sounds/SiegmeyerTrySomeRolling.mp3",
+          "label": "Perhaps I could try some rolling."
+        },
+        {
+          "file": "sounds/SiegmeyerWeighingMyOptions.mp3",
+          "label": "Weighing my options, so to speak."
+        },
+        {
+          "file": "sounds/SiegmeyerWellNeedAnotherThree.mp3",
+          "label": "Well, need another three... no, maybe five bodies."
+        },
+        {
+          "file": "sounds/SiegmeyerWhateverCanBeDone.mp3",
+          "label": "Whatever can be done ...?"
+        }
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/Oops.mp3", "label": "Oops" }
+        {
+          "file": "sounds/SiegmeyerABitTooPlump.mp3",
+          "label": "I'm afraid I'm a bit too plump."
+        },
+        {
+          "file": "sounds/SiegmeyerBahNoChance.mp3",
+          "label": "Bah! No chance. My head would spin!"
+        },
+        {
+          "file": "sounds/SiegmeyerDontBeAshamed1.mp3",
+          "label": "Don't be ashamed. 'Tis the fate of vanguards like you and I!"
+        },
+        {
+          "file": "sounds/SiegmeyerDontBeAshamed2.mp3",
+          "label": "You need not be ashamed, we're all in the same boat."
+        },
+        {
+          "file": "sounds/SiegmeyerFlatUpAgainstAWall.mp3",
+          "label": "Quite honestly, I've run flat up against a wall."
+        },
+        {
+          "file": "sounds/SiegmeyerICurseMyInability.mp3",
+          "label": "I curse my own inability."
+        },
+        {
+          "file": "sounds/SiegmeyerIHaveFailedYou.mp3",
+          "label": "Dear me, what can I say? I have failed you."
+        },
+        {
+          "file": "sounds/SiegmeyerIndeedAgainstAWall.mp3",
+          "label": "Yes indeed, I've run up against a wall."
+        },
+        {
+          "file": "sounds/SiegmeyerNoNeedToWorry.mp3",
+          "label": "No need to worry!"
+        },
+        {
+          "file": "sounds/SiegmeyerPickle1.mp3",
+          "label": "So here I sit, in quite a pickle. 1"
+        },
+        {
+          "file": "sounds/SiegmeyerPickle2.mp3",
+          "label": "So here I sit, in quite a pickle. 2"
+        },
+        {
+          "file": "sounds/SiegmeyerQuiteAFix1.mp3",
+          "label": "This is quite a fix."
+        },
+        {
+          "file": "sounds/SiegmeyerQuiteAFix2.mp3",
+          "label": "Hm... Quite a fix indeed."
+        },
+        {
+          "file": "sounds/SiegmeyerWeCanOvercomeThis.mp3",
+          "label": "We can overcome this – together!"
+        },
+        {
+          "file": "sounds/SiegmeyerWontBudgeNoMatterWhat.mp3",
+          "label": "The thing won't budge, no matter how long I wait. And oh, have I waited ..."
+        }
       ]
     },
     "input.required": {
       "sounds": [
-        { "file": "sounds/NeedHelp.mp3", "label": "Need your help" }
+        {
+          "file": "sounds/SiegmeyerAshamedToAsk.mp3",
+          "label": "By my knighthood, I am ashamed to ask."
+        },
+        {
+          "file": "sounds/SiegmeyerIHaveAnIdea.mp3",
+          "label": "Friend, I have an idea. A good one, really!"
+        },
+        {
+          "file": "sounds/SiegmeyerThinkAboutIt.mp3",
+          "label": "Think about it."
+        },
+        {
+          "file": "sounds/SiegmeyerWhatsOnYourMind1.mp3",
+          "label": "What's on your mind, friend? 1"
+        },
+        {
+          "file": "sounds/SiegmeyerWhatsOnYourMind2.mp3",
+          "label": "What's on your mind, friend? 2"
+        }
       ]
     },
     "resource.limit": {
       "sounds": [
-        { "file": "sounds/Blocked.mp3", "label": "Blocked" }
+        {
+          "file": "sounds/SiegmeyerWhatsOnYourMind1.mp3",
+          "label": "What's on your mind, friend? 1"
+        },
+        {
+          "file": "sounds/SiegmeyerIllHaveARest.mp3",
+          "label": "I think I'll have a rest."
+        },
+        {
+          "file": "sounds/SiegmeyerIllRecoverShortly.mp3",
+          "label": "I'll recover... Shortly."
+        }
       ]
     },
     "user.spam": {
       "sounds": [
-        { "file": "sounds/SiegmeyerGiveMeAChance.mp3", "label": "Next time, give me a chance to come up with a plan." }
+        {
+          "file": "sounds/SiegmeyerFeelMyWrath.mp3",
+          "label": "I am Siegmeyer of Catarina, and you shall feel my wrath!"
+        },
+        {
+          "file": "sounds/SiegmeyerPerishFoulCreatures.mp3",
+          "label": "Perish, foul creatures!"
+        },
+        {
+          "file": "sounds/SiegmeyerGiveMeAChance.mp3",
+          "label": "Give me a chance!"
+        }
+      ]
+    },
+    "user.end": {
+      "sounds": [
+        {
+          "file": "sounds/SiegmeyerCommendsYou.mp3",
+          "label": "This Knight of Catarina hereby commends you."
+        }
       ]
     }
   }
 }
+    
