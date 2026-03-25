@@ -1,0 +1,70 @@
+{
+  "cesp_version": "1.0",
+  "name": "ds1-siegmeyer-sound-pack",
+  "display_name": "Dark Souls – Siegmeyer of Catarina",
+  "version": "1.0.0",
+  "description": "A sound pack with a big heart and bigger armor. Featuring Siegmeyer of Catarina's iconic voice lines to accompany your coding adventures.",
+  "author": {
+    "name": "jmfiebak",
+    "github": "jmfiebak"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+"categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/SiegmeyerFatesEntwined.mp3", "label": "Our fates do seem entwined ..." },
+        { "file": "sounds/SiegmeyerThereYouAre.mp3", "label": "Oh, there you are!" },
+        { "file": "sounds/SiegmeyerYouAgain.mp3", "label": "Ah, you again!" }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        { "file": "sounds/SiegmeyerHm1.mp3", "label": "Hm 1" },
+        { "file": "sounds/SiegmeyerHm2.mp3", "label": "Hm 2" },
+        { "file": "sounds/SiegmeyerHm3.mp3", "label": "Hm 3" },
+        { "file": "sounds/SiegmeyerHm4.mp3", "label": "Hm 4" },
+        { "file": "sounds/SiegmeyerHm5.mp3", "label": "Hm 5" },
+        { "file": "sounds/SiegmeyerHm6.mp3", "label": "Hm 6" },
+        { "file": "sounds/SiegmeyerHm7.mp3", "label": "Hm 7" },
+        { "file": "sounds/SiegmeyerHm8.mp3", "label": "Hm 8" },
+        { "file": "sounds/SiegmeyerOutstanding.mp3", "label": "Outstanding! You never fail to impress." },
+        { "file": "sounds/SiegmeyerYesISee.mp3", "label": "Yes, I see." }
+
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/SiegmeyerHmOho.mp3", "label": "Hm... Oho! 1" },
+        { "file": "sounds/SiegmeyerHmOho2.mp3", "label": "Hm... Oho! 2" },
+        { "file": "sounds/SiegmeyerHmOho3.mp3", "label": "Hm... Oho! 3" },
+        { "file": "sounds/SiegmeyerHmOho4.mp3", "label": "Hm... Oho! 4" },
+        { "file": "sounds/SiegmeyerHmByTheHonor.mp3", "label": "By the honor of my knighthood!" },
+        { "file": "sounds/SiegmeyerHmOho6.mp3", "label": "Hm... Oho! 6" },
+        { "file": "sounds/SiegmeyerHmOho7.mp3", "label": "Hm... Oho! 7" },
+        { "file": "sounds/SiegmeyerHmOho8.mp3", "label": "Hm... Oho! 8" },
+        { "file": "sounds/SiegmeyerWellDone.mp3", "label": "Well done!" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/Oops.mp3", "label": "Oops" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/NeedHelp.mp3", "label": "Need your help" }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        { "file": "sounds/Blocked.mp3", "label": "Blocked" }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        { "file": "sounds/SiegmeyerGiveMeAChance.mp3", "label": "Next time, give me a chance to come up with a plan." }
+      ]
+    }
+  }
+}
