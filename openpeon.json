@@ -2,8 +2,8 @@
   "cesp_version": "1.0",
   "name": "ds1-siegmeyer-sound-pack",
   "display_name": "Dark Souls – Siegmeyer of Catarina",
-  "version": "1.0.0",
-  "description": "A sound pack with a big heart and bigger armor. Featuring Siegmeyer of Catarina's iconic voice lines to accompany your coding adventures.",
+  "version": "1.0.1",
+  "description": "A sound pack with a big heart and bigger armor.",
   "author": {
     "name": "jmfiebak",
     "github": "jmfiebak"
@@ -52,10 +52,6 @@
         { "file": "sounds/SiegmeyerHmOho2.mp3", "label": "Hm... Oho! 2" },
         { "file": "sounds/SiegmeyerHmOho3.mp3", "label": "Hm... Oho! 3" },
         { "file": "sounds/SiegmeyerHmOho4.mp3", "label": "Hm... Oho! 4" },
-        {
-          "file": "sounds/SiegmeyerByTheHonor.mp3",
-          "label": "By the honor of my knighthood!"
-        },
         { "file": "sounds/SiegmeyerFantastic.mp3", "label": "Fantastic!" },
         { "file": "sounds/SiegmeyerFantastic2.mp3", "label": "Fantastic! 2" },
         {
@@ -135,7 +131,7 @@
         },
         {
           "file": "sounds/SiegmeyerWellNeedAnotherThree.mp3",
-          "label": "Well, need another three... no, maybe five bodies."
+          "label": "We'll need another three... no, maybe five bodies."
         },
         {
           "file": "sounds/SiegmeyerWhateverCanBeDone.mp3",
@@ -234,10 +230,6 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/SiegmeyerWhatsOnYourMind1.mp3",
-          "label": "What's on your mind, friend? 1"
-        },
-        {
           "file": "sounds/SiegmeyerIllHaveARest.mp3",
           "label": "I think I'll have a rest."
         },
@@ -273,4 +265,3 @@
     }
   }
 }
-    
